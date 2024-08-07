@@ -6,7 +6,8 @@
     "build": "cargo build",
     "build:release": "cargo build --release",
     "test": "cargo test",
-    "check": "cargo check"
+    "check": "cargo check",
+    "update": "cargo update"
   },
   "author": "",
   "license": "ISC"
