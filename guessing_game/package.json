@@ -9,6 +9,5 @@
     "check": "cargo check"
   },
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
